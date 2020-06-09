@@ -92,10 +92,6 @@ Implement the spinlock and blocking mutex that we learned in the class. And then
   - No more than three pages; otherwise you will get 0 pts for the report
 	- You should explicitly mention your bonus implementation to get considered for the bonus points. You may write more than the three-page limit if you need space to explain your bonus implementation.
 
-- Git repository URL at git.ajou.ac.kr (10 bonus pts)
-	- Register http URL and with a deploy token and password.
-	- Start the repository by cloning this repository.
-	- Make sure the token is valid through June 17 (due + 4 slip days + 1 day)
 
 - *THE INSTRUCTOR WILL NOT ANSWER THE QUESTIONS ABOUT THOSE ALREADY SPECIFIED ON THE HANDOUT.*
 - *QUESTIONS OVER EMAIL WILL BE IGNORED UNLESS IT CONCERNS YOUR PRIVACY.*
